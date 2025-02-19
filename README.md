@@ -23,9 +23,6 @@ I'm a **Biomedical Sciences graduate** transitioning into **Data Analytics**, pa
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiovasileiou)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/sergioalytics/home)
 
-### 😄 Pronouns:  
-He/Him  
-
 ### ⚡ Fun fact:  
 I have experience as a **flight attendant** and have **volunteered teaching English in Bali**! 🌍✈️  
 
