@@ -18,9 +18,10 @@ I'm a **Biomedical Sciences graduate** transitioning into **Data Analytics**, pa
 - Open-source projects in **data visualization & reporting**  
 
 ### 📫 How to reach me...  
-📩 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile]  
-📊 Portfolio: [Your GitHub Portfolio]  
+📩 [![Email]: varemala@gmail.com  ]
+💼 [![LinkedIn]: https://www.linkedin.com/in/sergios-vasileiou/]
+📊 [![Portfolio: [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiovasileiou)]
+🌐 [![Site: https://sites.google.com/view/sergioalytics/home]
 
 ### 😄 Pronouns:  
 He/Him  
