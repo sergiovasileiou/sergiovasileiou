@@ -18,10 +18,10 @@ I'm a **Biomedical Sciences graduate** transitioning into **Data Analytics**, pa
 - Open-source projects in **data visualization & reporting**  
 
 ### 📫 How to reach me...  
-📩 [![Email]: varemala@gmail.com  ]
-💼 [![LinkedIn]: https://www.linkedin.com/in/sergios-vasileiou/]
-📊 [![Portfolio: [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiovasileiou)]
-🌐 [![Site: https://sites.google.com/view/sergioalytics/home]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Varemala@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergios-vasileiou/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiovasileiou)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/sergioalytics/home)
 
 ### 😄 Pronouns:  
 He/Him  
